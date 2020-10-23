@@ -55,7 +55,6 @@ Opgaven er en del af “Embedded controller III, til 5. Hovedforløb. Opgaven er
 
 
 Logbog
-Se også https://dev.azure.com/EmbedRasp/Embedded%20controller%20-%20LINUX
 
 9-9: opsætning af raspberry pi efter powerpoint
 
